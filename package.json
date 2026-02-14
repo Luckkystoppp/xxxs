@@ -1,0 +1,15 @@
+{
+  "name": "server-key-ultra-dark-v2",
+  "version": "2.1.0",
+  "description": "Server Key Ultra Dark Edition - Complete System",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "body-parser": "^1.20.2",
+    "express": "^4.22.1",
+    "multer": "^1.4.5-lts.1"
+  }
+}
